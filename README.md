@@ -11,7 +11,7 @@ To get things setup to be able to work with data, we will install conda and setu
 2. Copy `.condarc` to your user home directory.
 
     ``` bash
-    cp .condarc ~/.condarc`
+    cp .condarc ~/.condarc
     ```
 
 3. Reopen terminal and install `jupyterlab`, `nb_conda_kernels`, and `mamba`.
