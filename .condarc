@@ -19,3 +19,4 @@ create_default_packages:
   - ipykernel
 
 auto_activate_base: true
+safety_checks: disabled
